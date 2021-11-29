@@ -158,7 +158,12 @@ module.exports = {
 ```
 ____________________________________________
 ### Если вам сложно и плохо дается в понимании **как сделать 2 дз **- может вам помогут эти ссылочки
+
 https://lo-victoria.com/build-a-rest-api-with-nodejs-routes-and-controllers
+
 https://developer.mozilla.org/ru/docs/Learn/Server-side/Express_Nodejs/routes
+
 https://metanit.com/web/nodejs/7.1.php
+
 https://monsterlessons.com/project/lessons/express-router 
+
