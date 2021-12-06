@@ -96,4 +96,4 @@ https://www.youtube.com/watch?v=2tDvHQCBt3w&t=4s - Работа с базами 
 **По основам ноды.**
 Необязательно всех авторов смотреть, я скинула нескольких, потому что обычно один автор заходит и его подача материала, а другой не заходит и не подходит его подача материала. 
 Если все пересмотрите и будет скучно я Вам еще подкину, что можно глянуть - это пока основы
-**Список дополнительных тем по Node.js  - ** https://docs.google.com/spreadsheets/d/1DAm9kUziEXw56CsZzEk0UsoucS_5RG5gMMNX-x-gmfc/edit#gid=379096805
+**Список дополнительных тем по Node.js**  -  https://docs.google.com/spreadsheets/d/1DAm9kUziEXw56CsZzEk0UsoucS_5RG5gMMNX-x-gmfc/edit#gid=379096805
