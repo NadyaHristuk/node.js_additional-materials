@@ -85,7 +85,7 @@ _______________________________________________________________
 
 - Три курса по основам ноды от одного автора, от совсем основ, до построения корзины и АPI - мне он нравится очень просто и понятно излагает
 
--https://www.youtube.com/watch?v=65a5QQ3ZR2g&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR - Node.js - Tutorial - Introduction
+https://www.youtube.com/watch?v=65a5QQ3ZR2g&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR - Node.js - Tutorial - Introduction
 
 https://www.youtube.com/watch?v=-3vvxn78MH4&list=PL55RiY5tL51rajp7Xr_zk-fCFtzdlGKUp&index=2 - NodeJS / Express / MongoDB - Build a Shopping Cart
 
