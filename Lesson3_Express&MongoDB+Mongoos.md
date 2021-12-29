@@ -113,3 +113,14 @@ https://www.youtube.com/watch?v=2tDvHQCBt3w&t=4s - Работа с базами 
 Если все пересмотрите и будет скучно я Вам еще подкину, что можно глянуть - это пока основы
 
 **Список дополнительных тем по Node.js**  -  https://docs.google.com/spreadsheets/d/1DAm9kUziEXw56CsZzEk0UsoucS_5RG5gMMNX-x-gmfc/edit#gid=379096805
+
+____________________________________________
+### Если вам сложно и плохо дается в понимании **как сделать 3 дз**- может вам помогут эти ссылочки
+
+https://towardsdatascience.com/build-a-rest-api-with-node-express-and-mongodb-937ff95f23a5 
+
+https://rahmanfadhil.com/express-rest-api/
+
+https://medium.com/@alicantorun/build-a-rest-api-with-mongodb-mongoose-and-node-js-3a5afc4a0431
+
+https://blog.tericcabrel.com/create-a-rest-api-with-nodejs-express-mongodb-and-typescript/
