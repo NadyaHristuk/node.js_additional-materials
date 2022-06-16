@@ -151,6 +151,7 @@ __________________________
           console.warn('\x1B[31m Unknown action type!');
 
 **І ЇЇ Ж ПОБАЧИТЕ В КОНСОЛІ!**
+
 Що почитати- https://habr.com/ru/company/ruvds/blog/458504/ 
 
 
@@ -388,22 +389,7 @@ doc/*.txt
 doc/**/*.txt
 _______________________________________________________________________
 Какая задача на этапе 1 дз - убрать папку node_modules
-├── js
-│   ├── app.js
-│   └── system.js
-├── scss
-│   ├── system.scss
-│   └── theme.scss
-└── node_modules       <-- Убрать
-    │   ├── load-json-file
-    │   ├── lodash
-    │   ├── jquery
-    │   ├── make-error
-    │   ├── semantic
-    │   └── yargs
-    └── semantic.json
-
-##### Решение:
+##### Решение создать файл .gitignore и добавить него запись:
 node_modules/*
 _____________________________________
 Как игнорировать файлы, которые уже отслеживаются?
