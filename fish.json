@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Guppy",
+    "color": "Multicolored",
+    "size": "Small",
+    "quantity": 50,
+    "habitat": ["Rivers", "Ponds"]
+  },
+  {
+    "name": "Betta",
+    "color": "Vibrant",
+    "size": "Small",
+    "quantity": 20,
+    "habitat": ["Ponds", "Rice Fields"]
+  },
+  {
+    "name": "Angelfish",
+    "color": "Silver",
+    "size": "Medium",
+    "quantity": 10,
+    "habitat": ["Amazon River", "Flooded Forests"]
+  },
+  {
+    "name": "Goldfish",
+    "color": "Gold",
+    "size": "Small",
+    "quantity": 30,
+    "habitat": ["Ponds", "Aquariums"]
+  },
+  {
+    "name": "Neon Tetra",
+    "color": "Blue, Red",
+    "size": "Small",
+    "quantity": 25,
+    "habitat": ["Amazon River", "Tributaries"]
+  },
+  {
+    "name": "Discus",
+    "color": "Various",
+    "size": "Large",
+    "quantity": 5,
+    "habitat": ["Amazon River", "Flooded Forests"]
+  },
+  {
+    "name": "Molly",
+    "color": "Black, White, Orange",
+    "size": "Small",
+    "quantity": 15,
+    "habitat": ["Ponds", "Estuaries"]
+  },
+  {
+    "name": "Gourami",
+    "color": "Various",
+    "size": "Medium",
+    "quantity": 12,
+    "habitat": ["Lakes", "Ponds"]
+  },
+  {
+    "name": "Corydoras",
+    "color": "Various",
+    "size": "Small",
+    "quantity": 8,
+    "habitat": ["Rivers", "Streams"]
+  },
+  {
+    "name": "Rainbowfish",
+    "color": "Various",
+    "size": "Medium",
+    "quantity": 18,
+    "habitat": ["Rivers", "Lakes"]
+  }
+]
