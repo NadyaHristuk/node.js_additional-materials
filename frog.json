@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Green Tree Frog",
+    "color": "Green",
+    "size": "Medium",
+    "quantity": 20,
+    "habitat": ["Forests", "Wetlands"]
+  },
+  {
+    "name": "Red-eyed Tree Frog",
+    "color": "Green, Blue, Red",
+    "size": "Small",
+    "quantity": 15,
+    "habitat": ["Rainforests", "Swamps"]
+  },
+  {
+    "name": "American Bullfrog",
+    "color": "Green, Brown",
+    "size": "Large",
+    "quantity": 8,
+    "habitat": ["Ponds", "Lakes"]
+  },
+  {
+    "name": "Poison Dart Frog",
+    "color": "Various",
+    "size": "Small",
+    "quantity": 12,
+    "habitat": ["Tropical Rainforests"]
+  },
+  {
+    "name": "Cane Toad",
+    "color": "Brown",
+    "size": "Large",
+    "quantity": 10,
+    "habitat": ["Grasslands", "Savannas"]
+  },
+  {
+    "name": "Fire-bellied Toad",
+    "color": "Black, Orange",
+    "size": "Small",
+    "quantity": 25,
+    "habitat": ["Ponds", "Marshes"]
+  },
+  {
+    "name": "European Common Frog",
+    "color": "Brown, Green",
+    "size": "Small",
+    "quantity": 30,
+    "habitat": ["Gardens", "Woodlands"]
+  },
+  {
+    "name": "Budgett's Frog",
+    "color": "Brown",
+    "size": "Medium",
+    "quantity": 5,
+    "habitat": ["Marshes", "Ponds"]
+  },
+  {
+    "name": "Tomato Frog",
+    "color": "Red",
+    "size": "Medium",
+    "quantity": 18,
+    "habitat": ["Rainforests", "Swamps"]
+  },
+  {
+    "name": "Northern Leopard Frog",
+    "color": "Green, Brown",
+    "size": "Medium",
+    "quantity": 10,
+    "habitat": ["Grasslands", "Wetlands"]
+  }
+]
