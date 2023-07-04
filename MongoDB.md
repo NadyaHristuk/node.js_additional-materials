@@ -166,6 +166,7 @@ To remove documents in MongoDB, the remove
 db.cats.remove({name: "Tom"})
 db.cats.remove({name: "Tom"}, true) // once
 db.cats.remove({name: "Tom"}, false) // default: multi
+```
 Here are two files with data that you can use to learn and practice various queries to the MongoDB database using the Mongoose library.
 
 1. [fish.json](https://github.com/NadyaHristuk/node.js_additional-materials/blob/main/fish.json): This file contains information about different fish species. You can use it to create a collection in the MongoDB database and perform queries such as searching, inserting, updating, and deleting data about fish. Examples of queries could include finding all fish of a certain species, updating the size of a fish, or removing fish from the collection.
