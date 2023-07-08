@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>node</title>
+</head>
+
+<body>
+  <form id="form" enctype="multipart/form-data">
+    <input type="file" name="avatar" multiple>
+    <button type="submit">Upload</button>
+  </form>
+
+  <script>
+    const form = document.querySelector('#form');
+
+    form.addEventListener('submit', e => {
+      event.preventDefault();
+      const { avatar } = e.target.elements
+      console.log(avatar.files[0]);
+      const data = new FormData();
+      form.append('avatar', avatar.files[0]);
+    });
+  </script>
+</body>
+
+</html>
